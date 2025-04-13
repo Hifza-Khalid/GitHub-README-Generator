@@ -15,7 +15,8 @@
 <p align="center">
   <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Hifza-Khalid/GitHub-README-Generator?color=blue&style=flat-square"/>
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Hifza-Khalid/GitHub-README-Generator?style=flat-square&color=green"/>
-  <img alt="License" src="https://img.shields.io/github/license/Hifza-Khalid/GitHub-README-Generator?style=flat-square"/>
+<img alt="MIT License" src="https://img.shields.io/github/license/Hifza-Khalid/GitHub-README-Generator?style=flat-square&label=License&color=green"/>
+
   <img alt="Languages" src="https://img.shields.io/github/languages/count/Hifza-Khalid/GitHub-README-Generator?style=flat-square"/>
 </p>
 
@@ -96,6 +97,12 @@ python main.py
 
 🔸 **Step 1:** Launch the App  
 Run the script and the GUI will appear.
+<p align="center">
+  <h1>Splash screen</h1>
+  <img src="https://github.com/Hifza-Khalid/GitHub-README-Generator/blob/main/assets/splash_screen.JPG" alt="GitHub README Generator Splash screen" />
+  <h1>GUI_GitHub README Generator </h1>
+  <img src="https://github.com/Hifza-Khalid/GitHub-README-Generator/blob/main/assets/reademe_generator.JPG" alt="GitHub README Generator GUI" />
+</p>
 
 🔸 **Step 2:** Enter Your GitHub Details  
 Provide your GitHub username and a short bio that reflects your personality or project vision.
